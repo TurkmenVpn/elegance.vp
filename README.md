@@ -1,0 +1,2 @@
+# elegance.vp
+Vpn Hyzmaty!
