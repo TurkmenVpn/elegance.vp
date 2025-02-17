@@ -26,13 +26,21 @@
         color: rgb(255, 255, 255);
         font-size: 14px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        top: 20px;
-        left: 95px;
+        top: 32px;
+        left: 140px;
         border: 2px solid;
         border-radius: 5px;
         padding: 2.5px;
         width: 50%;
         text-align: center;
+    }
+    .arka>.header img {
+        width: 55px;
+        border: 1px solid white;
+        border-radius: 50px;
+        position: absolute;
+        top: 18px;
+        left: 33px;
     }
 
     .arka>.header>.Dili {
@@ -105,7 +113,7 @@
     .arka>.bahalar>.tarif1
     {
         position: absolute;
-        left: 40px;
+        left: 42px;
         top: 450px;
         width: 75%;
         height: 180px;
@@ -126,7 +134,7 @@
         position: absolute;
         top: 131px;
         font-size: 25px;
-        left: 26%;
+        left: 27.5%;
         filter: drop-shadow(6px 5px 6px rgb(158, 193, 247));
     }
     .arka>.bahalar>.tarif1> button a {
@@ -141,7 +149,7 @@
     .arka>.bahalar>.tarif2
     {
         position: absolute;
-        left: 40px;
+        left: 42px;
         top: 650px;
         width: 75%;
         height: 180px;
@@ -162,7 +170,7 @@
         position: absolute;
         top: 129px;
         font-size: 26px;
-        left: 24%;
+        left: 27%;
         filter: drop-shadow(6px 5px 6px rgb(158, 193, 247));
     }
     .arka>.bahalar>.tarif2> button a {
@@ -177,7 +185,7 @@
     .arka>.bahalar>.tarif3
     {
         position: absolute;
-        left: 40px;
+        left: 42px;
         top: 850px;
         width:75%;
         height: 180px;
@@ -198,7 +206,7 @@
         position: absolute;
         top: 129px;
         font-size: 26px;
-        left: 24%;
+        left: 26%;
         filter: drop-shadow(6px 5px 6px rgb(158, 193, 247));
     }
     .arka>.bahalar>.tarif3> button a {
@@ -272,7 +280,7 @@
         color: white;
         position: absolute;
         top: 400px;
-        left: 85px;
+        left: 88px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 26px;
         border: 1px solid white;
@@ -284,7 +292,7 @@
         color: white;
         position: absolute;
         top: 1080px;
-        left: 105px;
+        left: 100px;
         border: 2px solid white;
         padding: 5px 15px;
         border-bottom: none;
@@ -297,7 +305,7 @@
         top: 1170px;
         width: 320px;
         height: 240px;
-        left: 30px;
+        left: 35px;
         border: 1px solid white;
         border-radius: 3px;
     }
@@ -315,7 +323,7 @@
         border: 1px solid white;
         background-color: rgba(78, 76, 174, 0.704);
         border-radius: 10px;
-        left: 37px;
+        left: 39px;
     }
     .arka>.link> button a {
         text-decoration: none;
@@ -326,7 +334,7 @@
     .arka>.link> #imo {
         position: absolute;
         top: 140px;
-        width: 112px;
+        width: 116px;
         color: white;
         font-size: 12px;
         font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -335,7 +343,7 @@
         position: absolute;
         top: 140px;
         width: 112px;
-        left: 164px;
+        left: 166px;
     }
     .arka>.copy {
         position: absolute;
