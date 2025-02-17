@@ -7,7 +7,7 @@
 @media screen and (max-width: 400px) {
     .arka {
         width: 385px;
-        height: 1250px;
+        height: 1550px;
         background: url(./pictures/fon.webp);
         background-color: black;
         background-size: cover;
@@ -120,13 +120,13 @@
     }
     .arka>.bahalar>.tarif1>.baha {
         border: 2px solid rgb(144, 191, 235);
-        width: 150px;
+        width: 140px;
         border-radius: 7px;
         color: rgb(113, 244, 113);
         position: absolute;
-        top: 129px;
-        font-size: 26px;
-        left: 24%;
+        top: 131px;
+        font-size: 25px;
+        left: 26%;
         filter: drop-shadow(6px 5px 6px rgb(158, 193, 247));
     }
     .arka>.bahalar>.tarif1> button a {
@@ -279,5 +279,69 @@
         border-bottom: none ;
         border-top: none;
         padding: 0px 10px 0px 10px;
+    }
+    .arka #satyn {
+        color: white;
+        position: absolute;
+        top: 1080px;
+        left: 105px;
+        border: 2px solid white;
+        padding: 5px 15px;
+        border-bottom: none;
+        border-top:none ;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .arka>.link {
+        background-color: rgba(255, 255, 255, 0.637);
+        position: absolute;
+        top: 1170px;
+        width: 320px;
+        height: 240px;
+        left: 30px;
+        border: 1px solid white;
+        border-radius: 3px;
+    }
+    .arka>.link h1 {
+        color: rgba(163, 12, 12, 0.897);
+        font-size: 16px;
+        text-align: center;
+        padding: 20px;
+    }
+    .arka>.link> button {
+        position: absolute;
+        top: 85px;
+        width: 240px;
+        height: 45px;
+        border: 1px solid white;
+        background-color: rgba(78, 76, 174, 0.704);
+        border-radius: 10px;
+        left: 37px;
+    }
+    .arka>.link> button a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .arka>.link> #imo {
+        position: absolute;
+        top: 140px;
+        width: 112px;
+        color: white;
+        font-size: 12px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .arka>.link> #link {
+        position: absolute;
+        top: 140px;
+        width: 112px;
+        left: 164px;
+    }
+    .arka>.copy {
+        position: absolute;
+        bottom: 13px;
+        color: white;
+        font-size: 16px;
+        left: 127px;
     }
 }
